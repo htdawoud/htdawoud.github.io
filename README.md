@@ -1,2 +1,2 @@
 # htdawoud.github.io
-Repository for a personal homepage
+Repository for my personal web page.
