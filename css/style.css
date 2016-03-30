@@ -4,9 +4,9 @@
 	padding: 0;
 }
 
-body {
+html {
 	color: #666;
-	font-family: Helvetica,arial,sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 18px;
 	padding: 80px;
 }
@@ -18,6 +18,11 @@ body {
 
 h3 {
 	margin-bottom: 26px;
+}
+
+h3 span {
+	font-size: 18px;
+	font-weight: normal;
 }
 
 p {
