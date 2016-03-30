@@ -1,0 +1,31 @@
+* {
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #666;
+	font-family: Helvetica,arial,sans-serif;
+	font-size: 17px;
+	padding: 80px;
+}
+
+.label {
+	font-weight: bold;
+}
+
+#name {
+	margin-bottom: 26px;
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+a {
+	background: #ff9 none repeat scroll 0 0;
+	color: #666;
+    outline: medium none;
+    text-decoration: none;
+}
