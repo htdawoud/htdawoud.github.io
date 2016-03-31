@@ -6,8 +6,7 @@
 
 html {
 	color: #666;
-	-moz-osx-font-smoothing: grayscale;
-	font-family: Roboto,sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	font-size: 18px;
 	padding: 80px;
 }
@@ -24,7 +23,6 @@ p {
 	line-height: 28px;
 	width: 440px;
 	text-align: left;
-	font-size: 17px;
 }
 
 p, ul {
