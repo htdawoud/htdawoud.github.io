@@ -11,10 +11,6 @@ html {
 	padding: 80px;
 }
 
-.arabic {
-	font-size: 22px;
-}
-
 h3 {
 	display: inline-block;
 }
@@ -38,4 +34,8 @@ a {
 	color: #666;
 	outline: medium none;
 	text-decoration: none;
+}
+
+#contact {
+	font-size: 17px;
 }
