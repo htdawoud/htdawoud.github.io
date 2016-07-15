@@ -33,8 +33,8 @@ section {
 	margin-top: 24px;
 }
 
-.ig-b- { display: inline-block; }
-.ig-b- img { visibility: hidden; }
+.ig-b- { display: inline-block; margin-left: 15px;}
+.ig-b- img { visibility: hidden; position: absolute;}
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
 .ig-b-16 { width: 16px; height: 16px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-16.png) no-repeat 0 0; }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
