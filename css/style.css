@@ -60,3 +60,8 @@ section {
 	margin-top: 24px;
 	font-size: 18px;
 }
+
+.sp {
+	width: 13px;
+	display: inline-block;
+}
