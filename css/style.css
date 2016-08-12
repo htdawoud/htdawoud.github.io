@@ -24,27 +24,14 @@ p {
 
 ul {
 	display: block;
-    list-style-type: none;
-    box-sizing: inherent;
-    padding: 0;
-    margin: 0;
+  list-style-type: none;
+  box-sizing: inherent;
+  padding: 0;
+  margin: 0;
 }
 
 ul.info {
-	line-height: 1.25em
-}
-
-.notes {
-	padding-top: 10px;
-	margin-bottom: 20px;
-}
-
-.notes li {
-	margin-top: 7px;
-}
-
-li {
-
+	line-height: 1.40em
 }
 
 a {
@@ -60,7 +47,8 @@ section {
 	font-size: 18px;
 }
 
-.sp {
-	width: 13px;
-	display: inline-block;
+#ar-name {
+	margin-left: 10px;
+	font-weight: normal;
+	font-size: 23px;
 }
